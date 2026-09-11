@@ -10,11 +10,9 @@ This repository contains the implementation and analysis for **Lab 05: Linear Re
 ---
 
 ## 👤 Author Information
-- **Name:** Arshad Ali Khokhar
-- **Student ID:** 05
+- **Name:** Arshad ali
 - **Program:** BSCS 5th Semester
-- **GitHub:** [arshadalikhokhar05](https://github.com/arshadalikhokhar05)
-- **Kaggle:** [arshadalikhokhar05](https://www.kaggle.com/arshadalikhokhar05)
+- **Kaggle:** https://www.kaggle.com/reformist
 
 ---
 
